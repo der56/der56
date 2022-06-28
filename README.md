@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**der56/der56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm der, a fullstack developer
 
-Here are some ideas to get you started:
+```js
+const der = {
+  pronouns:"he"|"him",
+  code:[Javascript, Typescript, HTML, CSS],
+  tools:[React, Node, Docker, Next, Express, Postman]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=der56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## some of my projects 👇
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=der56&repo=api_rest_1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=der56&repo=left-bot)](https://github.com/anuraghazra/github-readme-stats)
