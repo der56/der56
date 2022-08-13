@@ -4,7 +4,6 @@
 
 ```js
 const der = {
-  pronouns:"he"|"him",
   code:[Javascript, Typescript, HTML, CSS],
   tools:[React, Node, Docker, Next, Express, Postman]
 }
