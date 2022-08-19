@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### I'm der, a fullstack developer
+#### I'm der, fullstack developer 
 
 ```js
 const der = {
-  code:[Javascript, Typescript, HTML, CSS],
+  code:[Javascript, Typescript, HTML, CSS, Python],
   tools:[React, Node, Docker, Next, Express, Postman]
 }
 ```
