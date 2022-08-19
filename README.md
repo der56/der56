@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm der, fullstack developer 
+#### I'm der
 
 ```js
 const der = {
