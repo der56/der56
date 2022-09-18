@@ -4,8 +4,8 @@
 
 ```js
 const der = {
-  code:[Javascript, Typescript, HTML, CSS, Python],
-  tools:[React, Node, Docker, Next, Express, Postman]
+  code:[Javascript, Typescript, HTML, CSS, Python, Go],
+  tools:[React, Node, Docker, Next, Express, Postman, Fiber]
 }
 ```
 #
