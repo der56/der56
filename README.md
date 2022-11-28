@@ -7,9 +7,14 @@ const der = {
   code:[Javascript, Typescript, HTML, CSS, Python, Go],
   tools:[React, Node, Docker, Next, Express, Postman, Fiber, Mongo, MySql]
 }
+for (der === 'developer'; der == happy; dev++) {
+  towork()
+}
 ```
 #
 >About me
-#### my framework for excellence is react and I usually create easy and intuitive apis to consume some of them you can see in my profile as well as other projects
-
+>> I'm working in some projects for do things efficiently like generators of code for npm 
+>> That they will be able to use soon
+>> You can see my repositories in my profile to know what else I do.
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=der56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
