@@ -5,7 +5,7 @@
 ```js
 const der = {
   code:[Javascript, Typescript, HTML, CSS, Python, Go],
-  tools:[React, Node, Docker, Next, Express, Postman, Fiber]
+  tools:[React, Node, Docker, Next, Express, Postman, Fiber, Mongo, MySql]
 }
 ```
 #
