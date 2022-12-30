@@ -7,7 +7,7 @@ const der = {
   code:[Javascript, Typescript, HTML, CSS, Python, Go],
   tools:[React, Node, Docker, Next, Express, Postman, Fiber, Mongo, MySql]
 }
-for (der === 'developer'; ideas > 0; dev++) {
+for (der = 'developer'; ideas > 0; dev++) {
   towork()
 }
 ```
