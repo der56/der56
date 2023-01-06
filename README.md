@@ -17,4 +17,4 @@ for (der = 'developer'; ideas > 0; dev++) {
 >> That they will be able to use soon
 >> You can see my repositories in my profile to know what else I do.
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=der56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=der56&hide=contribs,prs)
