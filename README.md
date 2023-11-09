@@ -19,4 +19,3 @@ for (der = 'developer'; ideas > 0; dev++) {
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=der56)](https://github.com/anuraghazra/github-readme-stats)
 
-### my portfolio 🙌: https://d4er-portfolio.onrender.com
